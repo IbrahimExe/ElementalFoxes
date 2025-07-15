@@ -1,6 +1,11 @@
-# 🎮 2-Player Gem Collecting Adventure 🎮 
+<div align="center">
+
+# 🎮 Elemental Foxes 🎮  
+#### A 2-Player Gem Collecting Adventure!
 
 ![Unity_Assignment_2_Screenshot](https://github.com/user-attachments/assets/071f3394-bbaf-4c02-a185-f4030922a64e)
+
+</div>
 
 ## 🌟 **Overview**
 A fun, cooperative 2D platformer where **two players** work together to collect **6 gems** 💎 and reach the top of the level to win! Overcome obstacles like **fire** 🔥 and **slime** 🟢, each affecting players differently.
