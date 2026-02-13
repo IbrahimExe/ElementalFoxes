@@ -29,7 +29,7 @@ A fun, cooperative 2D platformer where **two players** work together to collect 
 3. **Reach the "Finish" flag** together after collecting all gems to Win!
 
 ## **Features**
-- Real-time **gem counter** ✨
+- Real-time **gem counter**
 - **Replay button** for both win and lose screens
 - Cooperative mechanics requiring teamwork while both players do different things!
 
